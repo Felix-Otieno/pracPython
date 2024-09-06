@@ -1,0 +1,11 @@
+print("welcome to simple calculator")
+a = int(input("Enter the firt number:"))
+b = int(input("Enter the second number:"))
+
+print("Your answer is", a + b)
+print("Your answer is", a - b)
+print("Your answer is", a * b)
+print("Your answer is", a / b)
+print("Your answer is", a // b)
+print("Your answer is", a ** b)
+print("Your answer is", a % b)
